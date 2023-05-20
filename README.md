@@ -6,7 +6,7 @@ Script Bot de Discord
 </p>
 <h1 align="center">Ghost-Js</h1>
 
-# Bot básico de música discórdia usando discord js e discord-player
+# Bot básico de música discord usando discord js e discord-player
 
 Depois de clonar o repositório, certifique-se de criar um `.env` arquivo com o `TOKEN` e `CLIENT_ID` especificado por exemplo
 
